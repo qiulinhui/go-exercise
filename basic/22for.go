@@ -1,0 +1,24 @@
+package basic
+
+import "fmt"
+
+// For 示例
+func For() {
+	/*
+		for循环：某些代码会被执行多次
+		语法：
+			for 表达式1; 表达式2; 表达式3 {
+				循环体
+			}
+	*/
+
+	// fmt.Println("hello world")
+	// fmt.Println("hello world")
+	// fmt.Println("hello world")
+	// fmt.Println("hello world")
+	// fmt.Println("hello world")
+
+	for i := 1; i <= 5; i++ {
+		fmt.Println("hello world...") // 1,2,3,4,5
+	}
+}
