@@ -1,8 +1,9 @@
 package container
 
-import "fmt"
-
-import "sort"
+import (
+	"fmt"
+	"sort"
+)
 
 // Map2 遍历 map
 func Map2() {

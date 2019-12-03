@@ -17,5 +17,8 @@ func main() {
 	// container.ArraySort()
 	// container.Slice3()
 	// container.Slice4()
-	container.Map()
+	// container.Map()
+	// container.String()
+	container.Strconv()
+
 }
