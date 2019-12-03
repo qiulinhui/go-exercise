@@ -1,7 +1,7 @@
 package main
 
-// import "exercise/basic"
 import (
+	// "exercise/basic"
 	"exercise/container"
 )
 
@@ -14,5 +14,7 @@ func main() {
 	// basic.Exercieses4()
 	// basic.Random()
 	// container.Array()
-	container.ArraySort()
+	// container.ArraySort()
+	// container.Slice3()
+	container.Slice4()
 }
