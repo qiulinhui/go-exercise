@@ -3,7 +3,8 @@ package main
 import (
 	// "exercise/basic"
 	// "exercise/container"
-	"exercise/function"
+	// "exercise/function"
+	"exercise/pointer"
 )
 
 func main() {
@@ -24,5 +25,8 @@ func main() {
 	// function.Recursion()
 	// function.Type()
 	// function.Function2()
-	function.Closure()
+	// function.Closure()
+	// pointer.Pointer()
+	// pointer.Parray()
+	pointer.Pfunc()
 }
