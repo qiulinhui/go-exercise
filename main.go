@@ -2,7 +2,8 @@ package main
 
 import (
 	// "exercise/basic"
-	"exercise/container"
+	// "exercise/container"
+	"exercise/function"
 )
 
 func main() {
@@ -19,6 +20,9 @@ func main() {
 	// container.Slice4()
 	// container.Map()
 	// container.String()
-	container.Strconv()
-
+	// container.Strconv()
+	// function.Recursion()
+	// function.Type()
+	// function.Function2()
+	function.Closure()
 }
