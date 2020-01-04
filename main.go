@@ -1,11 +1,12 @@
 package main
 
-import (
-	// "exercise/basic"
-	// "exercise/container"
-	// "exercise/function"
-	"exercise/pointer"
-)
+import "exercise/error"
+
+// "exercise/basic"
+// "exercise/container"
+// "exercise/function"
+// "exercise/pointer"
+// "exercise/structs"
 
 func main() {
 	// basic.Iota2()
@@ -28,5 +29,8 @@ func main() {
 	// function.Closure()
 	// pointer.Pointer()
 	// pointer.Parray()
-	pointer.Pfunc()
+	// pointer.Pfunc()
+	// structs.Extends()
+	// structs.Type()
+	error.Panic()
 }
